@@ -4,9 +4,9 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
 
 ---
 
-### 🟢 Live Discord Status
+### 🟢  Discord Status
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1239262498239287427?bg=0d1117&borderRadius=10px&idleMessage=Offline)
+![Discord Presence](https://lanyard.cnrad.dev/api/1239262498239287427?bg=0d1117&borderRadius=10px)
 
 > Powered by **Lanyard API**
 
@@ -36,6 +36,7 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
 
 - 🌐 **Developer Page**  
   https://sys0xa7.is-a.dev/
+  Repo:https://github.com/WolfGames156/SYS_0xA7
 
 - 💻 **GitHub**  
   https://github.com/WolfGames156
@@ -47,7 +48,7 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
   https://discord.gg/55qJSKXjpG
 
 - ⭐ **Patreon**  
-  https://www.patreon.com/cw/SYS_0xA7
+  https://www.patreon.com/SYS_0xA7
 
 ---
 
@@ -65,9 +66,9 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
 ### 📌 Philosophy
 
 - No ads  
-- No trackers  
+
 - Minimal UI, maximum clarity  
 
 ---
 
-> *“Software is not a profession — it is a way of life.”*
+> *“Software is not a profession — it is a lifestyle.”*
