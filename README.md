@@ -11,7 +11,7 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
 ---
 
 ### 👨‍💻 About Me
-
+- Professional cybersecurity (owner of private hack group)
 - Full-stack oriented developer  
 - Interested in low-level systems, automation, and tooling  
 - Building personal and community-driven projects  
