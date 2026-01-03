@@ -6,9 +6,7 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
 
 ### 🟢  Discord Status
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1239262498239287427?bg=0d1117&borderRadius=10px)
-
-> Powered by **Lanyard API**
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1239262498239287427)
 
 ---
 
