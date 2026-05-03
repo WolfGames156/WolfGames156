@@ -40,11 +40,10 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
 - 💻 **GitHub**  
   https://github.com/WolfGames156
 
-- 🌍 **Zoream Project**  
-  https://zoream.pages.dev
 
-- 💬 **Discord Server**  
-  https://discord.gg/55qJSKXjpG
+
+- 💬 **Discord**  
+  https://discord.com/users/1463597892462972969
 
 - ⭐ **Patreon**  
   https://www.patreon.com/SYS_0xA7
@@ -57,8 +56,6 @@ I'm **SYS_0xA7**, a software developer focused on system-level tooling, automati
   Personal developer profile & link hub  
   Minimal, static, privacy-focused
 
-- **Zoream**  
-  Infrastructure and community-oriented platform
 
 ---
 
